@@ -1,0 +1,22 @@
+Stay Safe Online - Prevention Checklist (For College Students in India)
+
+General Safety Tips: 
+
+✔ Use strong and unique passwords for all your accounts and enable Two-Factor Authentication (2FA).
+✔ Avoid clicking suspicious links or downloading unknown attachments from emails or messages.
+✔ Always keep your devices and applications up-to-date to avoid known security issues.
+✔ Never share your personal information such as OTP, passwords, ID, etc., with anyone.
+✔ Be cautious while using public Wi-Fi and avoid accessing your accounts on public Wi-Fi.
+✔ Always verify the information before sharing it to avoid the spread of fake news and misinformation.
+
+Financial / UPI Safety Tips: 
+
+✔ Never share your UPI PIN, OTP, or bank information because banks never ask for it.
+✔ Always verify the UPI ID and other payment information before transferring money.
+✔ Never accept unknown ‘collect requests’ from unknown people in Google Pay or PhonePe.
+✔ Never scan unknown QR codes.
+
+Reporting Cyber Crime: 
+
+✔ Report any cyber fraud or suspicious activity immediately by visiting the National Cyber Crime Portal - cybercrime.gov.in.
+✔ Call the Cyber Crime Helpline - 1930 in case of immediate assistance in Financial Frauds.
