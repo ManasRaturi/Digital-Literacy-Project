@@ -17,7 +17,7 @@
 
 ## 📋 Project Overview
 
-This repository is my Digital Literacy Portfolio, submitted as part of the CSE0001 course project at VIT Bhopal University. For this project, I took on the role of a **Student Digital Ambassador** — helping peers navigate the digital world through five hands-on tasks covering digital tools, professional presence, coding platforms, email etiquette, and cybercrime awareness.
+This repository is my Digital Literacy Portfolio, submitted as part of the CSE0001 course project at VIT Bhopal University. For this project, I took on the role of a **Student Digital Ambassador** helping peers navigate the digital world through five hands-on tasks covering digital tools, professional presence, coding platforms, email etiquette, and cybercrime awareness.
 
 All five tasks are documented here with screenshots, written resources, and a full project report.
 
