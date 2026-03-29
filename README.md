@@ -71,7 +71,7 @@ Researched and wrote a case study on **UPI/Online Payment Fraud** — how it hap
 
 The full written project report covering all five tasks is available here:
 
-📁 [report/Project_Report.pdf](./PROJECT-REPORT.pdf)
+📁 [Project_Report.pdf](./PROJECT-REPORT.pdf)
 
 ---
 
